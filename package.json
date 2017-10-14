@@ -1,7 +1,7 @@
 {
-  "name": "promise-ftp",
+  "name": "@bhamcoder/promise-ftp",
   "description": "a promise-based ftp client for node.js",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "main": "index.js",
   "author": "RealtyMaps",
   "contributors": [
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/realtymaps/promise-ftp"
+    "url": "https://github.com/gabema/promise-ftp"
   },
   "keywords": [
     "ftp",
