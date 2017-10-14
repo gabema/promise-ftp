@@ -1,7 +1,7 @@
 {
   "name": "@bhamcoder/promise-ftp",
   "description": "a promise-based ftp client for node.js",
-  "version": "1.4.1",
+  "version": "1.4.3",
   "main": "index.js",
   "author": "RealtyMaps",
   "contributors": [
@@ -24,8 +24,8 @@
     "node"
   ],
   "dependencies": {
-    "bluebird": "^3.5.0",
-    "@icetee/ftp": "^0.3.15",
+    "bluebird": "2.x",
+    "@bhamcoder/ftp": "^0.3.11",
     "promise-ftp-common": "^1.1.5"
   },
   "devDependencies": {
