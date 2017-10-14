@@ -1,7 +1,7 @@
 {
   "name": "@bhamcoder/promise-ftp",
   "description": "a promise-based ftp client for node.js",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "main": "index.js",
   "author": "RealtyMaps",
   "contributors": [
